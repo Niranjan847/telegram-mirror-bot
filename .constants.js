@@ -1,7 +1,7 @@
 process.env["NTBA_FIX_319"] = 1;
 module.exports = Object.freeze({
   TOKEN: '1025390398:AAHiWRCPifucq6dmg2TbPgbIa1s8dgdAp8s',
-  ARIA_SECRET: 'ARIA.SH PASSWORD',
+  ARIA_SECRET: 'aeiou.123',
   ARIA_DOWNLOAD_LOCATION: '/',
   ARIA_DOWNLOAD_LOCATION_ROOT: '/', //The mountpoint that contains ARIA_DOWNLOAD_LOCATION
   ARIA_FILTERED_DOMAINS: [], // Prevent downloading from URLs containing these substrings
